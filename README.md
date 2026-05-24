@@ -13,7 +13,18 @@ Outside of coding I spend time exploring new technologies, contributing to open 
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,docker,git,linux,postgres,graphql,aws,rust&theme=dark&perline=6" />
+  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/GraphQL-0d0d0d?style=for-the-badge&logo=graphql&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=b967ff" />
+  <img src="https://img.shields.io/badge/Rust-0d0d0d?style=for-the-badge&logo=rust&logoColor=b967ff" />
 </p>
 
 ---
@@ -38,13 +49,7 @@ Outside of coding I spend time exploring new technologies, contributing to open 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadbierox196&hide_border=true&bg_color=0d0d0d&color=b967ff&line=7c3aed&point=ffffff&area=true&area_color=2d0047" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hadbierox196/Hadbierox196/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hadbierox196/Hadbierox196/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Hadbierox196/Hadbierox196/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+
 
 ---
 
