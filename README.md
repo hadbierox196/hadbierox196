@@ -4,9 +4,9 @@
 
 ## About Me
 
-I am a developer who enjoys building things from the ground up. I got into programming out of curiosity and it turned into something I do every day. I work across the full stack and care about writing code that is clean, readable, and actually solves the problem at hand.
+I'M HASSAN FAROOQ, CURRENTLY PURSUING MBBS AT SARGODHA MEDICAL COLLEGE. ALONG WITH MY MEDICAL STUDIES, I'M ACTIVELY ENGAGED IN RESEARCH WORK, WEB DEVELOPMENT PROJECTS, AND GRAPHIC DESIGΝING, WΗEREΕ Ι BLEND CREATIVITY WITH TECHNICAL SKILLS. MY GOAL IS TO INTEGRATE MEDICINE, TECHNOLOGY, AND DESIGN TO DEVELOP INNOVATIVE AND VISUALLY IMPACTFUL SOLUTIONS THAT
 
-Outside of coding I spend time exploring new technologies, contributing to open source, and occasionally breaking things just to understand how they work. I am always learning and always looking for the next thing worth building.
+MAKE A DIFFERENCE
 
 ---
 
