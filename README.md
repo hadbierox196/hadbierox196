@@ -21,13 +21,13 @@ Outside of coding I spend time exploring new technologies, contributing to open 
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hadbierox196&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=666666&text_color=aaaaaa&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hadbierox196&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=b967ff&icon_color=9945cc&text_color=ffffff&ring_color=b967ff&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadbierox196&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadbierox196&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=b967ff&text_color=ffffff&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hadbierox196&hide_border=true&background=0d0d0d&ring=ffffff&fire=aaaaaa&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555&stroke=222222" />
+  <img src="https://streak-stats.demolab.com?user=Hadbierox196&hide_border=true&background=0d0d0d&ring=b967ff&fire=9945cc&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&stroke=2d0047" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ Outside of coding I spend time exploring new technologies, contributing to open 
 ## Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadbierox196&theme=github-compact&hide_border=true&bg_color=0d0d0d&color=888888&line=555555&point=ffffff&area=true&area_color=222222" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hadbierox196&hide_border=true&bg_color=0d0d0d&color=b967ff&line=7c3aed&point=ffffff&area=true&area_color=2d0047" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ Outside of coding I spend time exploring new technologies, contributing to open 
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hadbierox196&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hadbierox196&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p>
 
 ---
@@ -60,18 +60,18 @@ Outside of coding I spend time exploring new technologies, contributing to open 
 
 <p align="center">
   <a href="https://github.com/Hadbierox196">
-    <img src="https://img.shields.io/badge/GitHub-Hadbierox196-111111?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d" />
+    <img src="https://img.shields.io/badge/GitHub-Hadbierox196-b967ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d" />
   </a>
   &nbsp;
   <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d0d0d" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-b967ff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d0d0d" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/yourname">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d0d0d" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-b967ff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d0d0d" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hadbierox196&style=flat-square&color=555555&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=Hadbierox196&style=flat-square&color=b967ff&label=profile+views" />
 </p>
