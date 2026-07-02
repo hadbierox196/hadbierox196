@@ -11,22 +11,36 @@ MAKE A DIFFERENCE
 ---
 
 ## Skills
-
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/R-0d0d0d?style=for-the-badge&logo=r&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/MATLAB-0d0d0d?style=for-the-badge&logo=mathworks&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/scikitlearn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/Qiskit-0d0d0d?style=for-the-badge&logo=qiskit&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1e90ff" />
   <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=1e90ff" />
   <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=1e90ff" />
   <img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=1e90ff" />
-  <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=1e90ff" />
-  <img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=1e90ff" />
   <img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=1e90ff" />
   <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=1e90ff" />
   <img src="https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=1e90ff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=1e90ff" />
-  <img src="https://img.shields.io/badge/GraphQL-0d0d0d?style=for-the-badge&logo=graphql&logoColor=1e90ff" />
-  <img src="https://img.shields.io/badge/AWS-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=1e90ff" />
-  <img src="https://img.shields.io/badge/Rust-0d0d0d?style=for-the-badge&logo=rust&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/NEURON-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/Brian2-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/NEST_Simulator-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/QuTiP-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/OpenBCI-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/MNE--Python-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/FSL-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/FreeSurfer-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
+  <img src="https://img.shields.io/badge/SPM-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
 </p>
-
 ---
 
 ## Stats
@@ -50,14 +64,6 @@ MAKE A DIFFERENCE
 </p>
 
 
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hadbierox196&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
 
 ---
 
