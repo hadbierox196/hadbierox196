@@ -41,7 +41,9 @@ MAKE A DIFFERENCE
   <img src="https://img.shields.io/badge/FreeSurfer-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
   <img src="https://img.shields.io/badge/SPM-0d0d0d?style=for-the-badge&logoColor=1e90ff" />
 </p>
+
 ---
+
 
 ## Stats
 
