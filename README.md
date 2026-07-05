@@ -48,9 +48,9 @@ MAKE A DIFFERENCE
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hadbierox196&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=1e90ff&icon_color=0066cc&text_color=ffffff&ring_color=1e90ff&include_all_commits=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-nu-navy-59.vercel.app/api?username=Hadbierox196&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=1e90ff&icon_color=0066cc&text_color=ffffff&ring_color=1e90ff&include_all_commits=true&cache_seconds=1800" />
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadbierox196&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=1e90ff&text_color=ffffff&langs_count=8&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats-nu-navy-59.vercel.app/api/top-langs/?username=Hadbierox196&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=1e90ff&text_color=ffffff&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -76,11 +76,11 @@ MAKE A DIFFERENCE
     <img src="https://img.shields.io/badge/GitHub-Hadbierox196-1e90ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d0d0d" />
   </a>
   &nbsp;
-  <a href="hasanfarooq.edu@gmail.comemail.com">
+  <a href="mailto:your@email.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-1e90ff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d0d0d" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hassan-farooq-89b1aa361/">
+  <a href="https://linkedin.com/in/yourname">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-1e90ff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d0d0d" />
   </a>
 </p>
